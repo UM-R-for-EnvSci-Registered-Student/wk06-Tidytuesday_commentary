@@ -12,7 +12,7 @@ The data for [this week](https://github.com/rfordatascience/tidytuesday/tree/mas
 
 For the #Tidytuesday commentary assignments you **do not** need to analyze or work on the data. We will have a speciffic assignment about that on week 10. For now, i just want you to "watch" as the event takes place over the week. You can check Twitter as much as you want over the week. You can check for new entries daily by searching for the #TidyTuesday "hashtag", and seing what new posts appear or wait till the end of the week and browse them all. Make sure the post is about this week's dataset. Often people are trying to catch up and post about older datasets (which is ok!)
 
-Whay I **do** want you to do: Based on your observations i will like you to open an issue (one per student) in the [issues](https://github.com/UM-R-for-EnvSci-Registered-Student/wk06-Tydituesday-commentary/issues) section of this repo where i want you to comment on:
+Whay I **do** want you to do: Based on your observations i will like you to open an issue (one per student) in the [issues](https://github.com/UM-R-for-EnvSci-Registered-Student/wk06-Tidytuesday_commentary/issues) section of this repo where i want you to comment on:
 
 - Code/Tools/aproaches **we have seen in class** that you saw used ove rthe week
 - Code/Tools/aproaches that you enjoyed or that surprised you that **we have not** seen in class
